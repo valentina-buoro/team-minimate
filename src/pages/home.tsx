@@ -1,5 +1,6 @@
 
 import { Mic, AudioLines } from 'lucide-react';
+import { AudioRecorderComponent } from '../components/AudioRecorderComponent';
 
 const Home = () => {
   return (
@@ -20,7 +21,7 @@ const Home = () => {
         </div>
      }
      <p>Red sneakers</p>
-
+<AudioRecorderComponent />
     </div>
   );
 };

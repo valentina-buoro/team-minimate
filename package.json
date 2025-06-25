@@ -11,6 +11,7 @@
     "@shopify/shop-minis-react": "latest",
     "lucide-react": "^0.523.0",
     "react": "18.2.0",
+    "react-audio-voice-recorder": "^2.2.0",
     "react-dom": "18.2.0"
   },
   "devDependencies": {
